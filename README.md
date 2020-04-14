@@ -43,7 +43,8 @@ above diagram.
 
 ## Run the program
 
-python landsea.py -f "path of the text file"
+python landsea.py -f  "path of the text file"
+
 python landsea.py -f ./sample.txt
 
 # Python version 3.7
