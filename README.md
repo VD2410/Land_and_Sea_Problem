@@ -40,3 +40,10 @@ above diagram.
 5.5 8.0 6.0 9.0
 6.5 8.0 7.0 9.0
 ~~~~
+
+## Run the program
+
+python landsea.py -f "path of the text file"
+python landsea.py -f ./sample.txt
+
+# Python version 3.7
